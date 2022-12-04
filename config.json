@@ -43,7 +43,7 @@
     "memmon_poll_rate": 8,
     "samples_log_stdout": false,
     "multiple_tqdm": false,
-    "sd_model_checkpoint": "nsfw.ckpt [c87840ab]",
+    "sd_model_checkpoint": "",
     "sd_hypernetwork": "None",
     "img2img_color_correction": false,
     "save_images_before_color_correction": false,
