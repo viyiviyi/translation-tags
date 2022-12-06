@@ -75,7 +75,6 @@
         "PLMS",
         "LMS",
         "Heun",
-        "Euler",
         "DPM adaptive",
         "DPM fast",
         "LMS Karras",
@@ -83,7 +82,9 @@
         "DPM2 a Karras",
         "DPM2",
         "DPM2 a",
-        "DDIM"
+        "DDIM",
+        "DPM++ SDE Karras",
+        "DPM++ SDE"
     ],
     "eta_ddim": 0,
     "eta_ancestral": 1,
