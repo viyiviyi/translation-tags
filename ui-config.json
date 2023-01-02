@@ -44,7 +44,7 @@
     "txt2img/Batch size/maximum": 8,
     "txt2img/Batch size/step": 1,
     "txt2img/CFG Scale/visible": true,
-    "txt2img/CFG Scale/value": 7.0,
+    "txt2img/CFG Scale/value": 12.0,
     "txt2img/CFG Scale/minimum": 1.0,
     "txt2img/CFG Scale/maximum": 30.0,
     "txt2img/CFG Scale/step": 0.5,
