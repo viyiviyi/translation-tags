@@ -1,6 +1,7 @@
 ﻿name,prompt,negative_prompt
 None,,
 Default,"masterpiece, best quality","lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry,artist name"
+girl,"colorful, vividcolor, lighting, delicate, beautiful, beautiful face, beautiful eyes, beautiful girl, delicate face, delicate girl,",
 Default quality,"8k, finely detailed beautiful eyes, vividcolor, an extremely delicate and beautiful girl, beautiful detailed face, Cinematic light, ray tracing, high resolution illustration, colorful, 8k wallpaper, highres",""
 NAiDefault,"masterpiece, best quality","text, lowres, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, bad anatomy, bad hands, error, missing fingers, extra digit, fewer digits, missing arms, long neck, Humpbacked"
 beautiful girl,(an extremely delicate and beautiful girl:1.05),
