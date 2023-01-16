@@ -53,7 +53,7 @@
     "use_old_emphasis_implementation": false,
     "enable_batch_seeds": true,
     "filter_nsfw": false,
-    "CLIP_stop_at_last_layers": 2,
+    "CLIP_stop_at_last_layers": 1,
     "random_artist_categories": [],
     "interrogate_keep_models_in_memory": false,
     "interrogate_use_builtin_artists": false,
