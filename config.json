@@ -1,6 +1,6 @@
 {
     "samples_save": true,
-    "samples_format": "jpg",
+    "samples_format": "png",
     "samples_filename_pattern": "[date]-[width].[height]",
     "grid_save": true,
     "grid_format": "jpg",
